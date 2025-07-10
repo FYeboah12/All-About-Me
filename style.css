@@ -1,0 +1,88 @@
+body {
+  background-color: #e8c2caff;
+  text-align: center;
+}
+h1 {
+  font-family: Graduate;
+  color: #735d78;
+  font-size: 48px;
+  text-shadow: 1.5px 1.5px black;
+}
+h2 {
+  font-size: 24px;
+  font-family: Lexend;
+}
+p {
+  color: white;
+  font-size: 18px;
+  font-family: Coming Soon;
+  background-color: #735d78;
+  border-radius: 20px;
+  padding: 5%;
+}
+#link {
+  font-size: 24px;
+  font-family: Lexend;
+}
+a:hover {
+  background-color: lightyellow;
+}
+ul {
+  color: white;
+  font-size: 18px;
+  font-family: Coming Soon;
+  background-color: #735d78;
+  border-radius: 20px;
+  padding: 5%;
+}
+.imgs {
+  width: 250px;
+  height: 250px;
+}
+#navbar {
+  display: flex;
+  background-color: #f7d1cdff;
+  font-family: Lexend;
+  font-size: 36px;
+  color: black;
+  justify-content: space-between;
+  padding: 3%;
+  margin: 0%;
+  border-radius: 0%;
+}
+.navlink {
+  /*margin-right: 25px;*/
+  list-style-type: none;
+}
+.bg {
+  background-color: #c6878fff;
+  padding: 5%;
+  border-radius: 20px;
+}
+.top-row {
+  display: flex;
+  align-content: flex-start;
+}
+.bottom-row {
+  display: flex;
+  align-content: space-between;
+}
+article {
+  border: solid;
+  border-color: red;
+  padding: 15px;
+  background-image: linear-gradient(pink, violet);
+}
+code {
+  font-size: 20px;
+}
+aside {
+  font-size: 24px;
+}
+#end {
+  background-color: transparent;
+  color: #495845;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 32px;
+  font-weight: bold;
+}
